@@ -4,5 +4,3 @@ This repository contains tutorials and LAB for Regarding the NLP course
 1. Lab1 --> `Naive bayes and Logistic Regression`
 2. LAB2 --> `Word2vec`
 3. LAB3 --> `ngrams`
-
-## Week2
